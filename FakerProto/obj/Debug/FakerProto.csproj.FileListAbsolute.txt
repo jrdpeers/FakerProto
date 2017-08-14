@@ -1,0 +1,9 @@
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\bin\Debug\FakerProto.exe.config
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\bin\Debug\FakerProto.exe
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\bin\Debug\FakerProto.pdb
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\bin\Debug\Faker.NET4.dll
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\bin\Debug\de-DE\Faker.NET4.resources.dll
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\obj\Debug\FakerProto.csprojResolveAssemblyReference.cache
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\obj\Debug\FakerProto.exe
+c:\users\jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\obj\Debug\FakerProto.pdb
+C:\Users\Jim\documents\visual studio 2017\Projects\FakerProto\FakerProto\obj\Debug\FakerProto.csproj.CoreCompileInputs.cache
